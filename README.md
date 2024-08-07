@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/587d87a7-f1d8-4d0f-8e17-7bcaac384c6b)
+
+
 **Lobsnet IoT**
 
 Lobsnet IoT is a set of devices and funcionalities able to support remote control of some environments. It can receive data from remote sensors, send commands to remote switches, fans, displays or even remotely control other computers. It can deliver message to remote location, far from Internet Access Point or work without the Internet.
