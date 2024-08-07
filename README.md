@@ -82,6 +82,8 @@ Some devices are build within the project development but there are also ones fr
 
 **Remote Long Range LED display control**
 
-
+![image](https://github.com/user-attachments/assets/2e0dea77-4b23-4abb-bcd4-5de90c031a7d)
 
 **SmartHome systems extension**
+
+
