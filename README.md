@@ -67,3 +67,17 @@ Some devices are build within the project development but there are also ones fr
 - Hosts zigbee2mqtt and mqtt broker
 - Cheap, small, efficient and available
 - Ready for automation aplications
+
+**Example possible user cases**
+
+
+**Greenhouse management**
+
+
+**Wreless e-ink tagging system for warehouse**
+
+
+**Remote Long Range LED display control**
+
+
+**SmartHome systems extension**
