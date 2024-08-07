@@ -78,8 +78,10 @@ Some devices are build within the project development but there are also ones fr
 
 **Wreless e-ink tagging system for warehouse**
 
+![image](https://github.com/user-attachments/assets/a836fbf7-0989-455a-9115-fed0d4399c50)
 
 **Remote Long Range LED display control**
+
 
 
 **SmartHome systems extension**
