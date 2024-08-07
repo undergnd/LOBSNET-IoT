@@ -22,3 +22,41 @@ Data transfer
 
 Well, there are many factors which justify why LoRa is used in the system, but it has some disadvantage – this is low data transmission speed. If every hour you need to pass couple of bytes for a distance of 50 kilometers or couple of tousends bytes for a distance of 5 kilometers LoRa is however great solution for it.
 
+Devices
+
+Some devices are build within the project development but there are also ones from the market to support project’s development.
+
+Lobsnet LoRa station
+
+Long range LoRa encrypted link
+Secure connection over BLE or ZigBee
+USB Virtual COM Port
+Powered with 5V USB or 3.6 – 15V DC
+
+Lobsnet gateway
+
+Connects Lobsnet LoRa base station to server
+WiFi connection to local server or Internet
+BLE secure connection to LoRa base station
+MQTT client with SSL
+Configuration via webpage
+Powered with USB
+
+Lobsnet sensor
+
+BLE communication
+Accelerometer, temperature and humidity sensor
+Ultra low power consumption
+Powered with 3V Li Ion battery
+
+Zigbee2mqtt adapter
+
+Custom board for RF-BM-2652P2
+Zstack firmware
+Fits to 40 pins SBC’s connectors (i.e. Raspberry Pi, Orange Pi, Banana Pi, Radxa Zero 3W)
+
+Single board computer with Zigbee2mqtt and mosquitto broker
+
+Hosts zigbee2mqtt and mqtt broker
+Cheap, small, efficient and available
+Ready for automation aplications
