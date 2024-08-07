@@ -29,10 +29,10 @@ Some devices are build within the project development but there are also ones fr
 
 **Lobsnet LoRa station**
 
-Long range LoRa encrypted link
-Secure connection over BLE or ZigBee
-USB Virtual COM Port
-Powered with 5V USB or 3.6 – 15V DC
+- Long range LoRa encrypted link
+- Secure connection over BLE or ZigBee
+- USB Virtual COM Port
+- Powered with 5V USB or 3.6 – 15V DC
 
 **Lobsnet gateway**
 
