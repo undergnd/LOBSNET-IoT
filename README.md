@@ -73,6 +73,8 @@ Some devices are build within the project development but there are also ones fr
 
 **Greenhouse management**
 
+![image](https://github.com/user-attachments/assets/379e96a5-73bf-4bfa-9981-257f6417a8a9)
+
 
 **Wreless e-ink tagging system for warehouse**
 
