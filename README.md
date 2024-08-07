@@ -86,4 +86,5 @@ Some devices are build within the project development but there are also ones fr
 
 **SmartHome systems extension**
 
+![image](https://github.com/user-attachments/assets/e5aca9d1-228d-4592-84da-a6df67762582)
 
