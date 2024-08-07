@@ -80,7 +80,7 @@ Some devices are build within the project development but there are also ones fr
 
 ![image](https://github.com/user-attachments/assets/a836fbf7-0989-455a-9115-fed0d4399c50)
 
-**Remote Long Range LED display control**
+**Long Range Remote LED display control**
 
 ![image](https://github.com/user-attachments/assets/2e0dea77-4b23-4abb-bcd4-5de90c031a7d)
 
