@@ -36,28 +36,28 @@ Some devices are build within the project development but there are also ones fr
 
 **Lobsnet gateway**
 
-Connects Lobsnet LoRa base station to server
-WiFi connection to local server or Internet
-BLE secure connection to LoRa base station
-MQTT client with SSL
-Configuration via webpage
-Powered with USB
+- Connects Lobsnet LoRa base station to server
+- WiFi connection to local server or Internet
+- BLE secure connection to LoRa base station
+- MQTT client with SSL
+- Configuration via webpage
+- Powered with USB
 
 **Lobsnet sensor**
 
-BLE communication
-Accelerometer, temperature and humidity sensor
-Ultra low power consumption
-Powered with 3V Li Ion battery
+- BLE communication
+- Accelerometer, temperature and humidity sensor
+- Ultra low power consumption
+- Powered with 3V Li Ion battery
 
 **Zigbee2mqtt adapter**
 
-Custom board for RF-BM-2652P2
-Zstack firmware
-Fits to 40 pins SBC’s connectors (i.e. Raspberry Pi, Orange Pi, Banana Pi, Radxa Zero 3W)
+- Custom board for RF-BM-2652P2
+- Zstack firmware
+- Fits to 40 pins SBC’s connectors (i.e. Raspberry Pi, Orange Pi, Banana Pi, Radxa Zero 3W)
 
 **Single board computer with Zigbee2mqtt and mosquitto broker**
 
-Hosts zigbee2mqtt and mqtt broker
-Cheap, small, efficient and available
-Ready for automation aplications
+- Hosts zigbee2mqtt and mqtt broker
+- Cheap, small, efficient and available
+- Ready for automation aplications
