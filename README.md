@@ -26,6 +26,9 @@ Playing with IoT was the main reason for development of the system. Among many s
 Well, there are many factors which justify why LoRa is used in the system, but it has some disadvantage – this is low data transmission speed. If every hour you need to pass couple of bytes for a distance of 50 kilometers or couple of tousends bytes for a distance of 5 kilometers LoRa is however great solution for it.
 
 
+![image](https://github.com/user-attachments/assets/ecca9f42-50f1-4b7e-96b2-21ea8c2d5a87)
+
+
 **Devices**
 
 Some devices are build within the project development but there are also ones from the market to support project’s development.
